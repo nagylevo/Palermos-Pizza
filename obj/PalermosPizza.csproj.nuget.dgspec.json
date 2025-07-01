@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nagyl\\Downloads\\PalermosPizza\\PalermosPizza\\PalermosPizza.csproj": {}
+    "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\PalermosPizza.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nagyl\\Downloads\\PalermosPizza\\PalermosPizza\\PalermosPizza.csproj": {
+    "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\PalermosPizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nagyl\\Downloads\\PalermosPizza\\PalermosPizza\\PalermosPizza.csproj",
+        "projectUniqueName": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\PalermosPizza.csproj",
         "projectName": "PalermosPizza",
-        "projectPath": "C:\\Users\\nagyl\\Downloads\\PalermosPizza\\PalermosPizza\\PalermosPizza.csproj",
+        "projectPath": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\PalermosPizza.csproj",
         "packagesPath": "C:\\Users\\nagyl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nagyl\\Downloads\\PalermosPizza\\PalermosPizza\\obj\\",
+        "outputPath": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
