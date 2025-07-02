@@ -19,4 +19,37 @@ html {
 
 body {
   margin-bottom: 60px;
+  background-image: url(../wp.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#logo{
+    width: 200pt;
+    text-align: center;
+    margin: auto;
+}
+
+.nav-item {
+    margin: auto;
+}
+
+.container{
+    text-align: center;
+    color: lightgray;
+}
+
+nav {
+    background-image: url(../wp.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: none;
+}
+
+a {
+    color: forestgreen;
+}
+
+a:active, a:hover {
+    color: red;
 }
