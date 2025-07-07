@@ -18,25 +18,32 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
-  background-image: url(../wp.jpeg);
-  background-size: cover;
-  background-repeat: no-repeat;
+    background-image: url(../wp.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    max-width: 1100pt;
+    margin: auto;
+    overflow-x: hidden;
+}
+
+.footer {
+    max-width: 1100pt;
 }
 
 #logo{
-    width: 200pt;
+    width: 180pt;
     text-align: center;
-    margin: auto;
+    margin-bottom: 5pt;
+    margin-top: 5pt;
 }
 
 .nav-item {
     margin: auto;
 }
 
-.container{
-    text-align: center;
+.container, .footer {
     color: lightgray;
+    text-align: center;
 }
 
 nav {
@@ -47,9 +54,36 @@ nav {
 }
 
 a {
-    color: forestgreen;
+    color: green;
 }
 
 a:active, a:hover {
     color: red;
+}
+
+#contactDiv {
+    text-align: left;
+    margin-top: 100pt;
+    font-size: 15pt;
+    line-height: 30pt;
+}
+
+#mapDiv {
+    width: 500pt;
+    float: right;
+    margin-top: -150pt;
+}
+
+.signButton {
+    color: white;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium';
+    border: none;
+    padding: 15pt;
+    margin-right: 0pt;
+}
+
+#emoji{
+    width: 15pt;
+    margin-right: 3pt;
 }

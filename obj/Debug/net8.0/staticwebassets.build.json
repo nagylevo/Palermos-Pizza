@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3oNFiVLzwajuDCXqzr6u/FP7mucKfOb557s/OKatjkE=",
+  "Hash": "tl25QoYt+AyPTX38wYU9xJtRFZVvdNs9BVOyPd6YNfM=",
   "Source": "PalermosPizza",
   "BasePath": "_content/PalermosPizza",
   "Mode": "Default",
@@ -55,6 +55,25 @@
       "OriginalItemSpec": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PalermosPizza.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\cart.png",
+      "SourceId": "PalermosPizza",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\",
+      "BasePath": "_content/PalermosPizza",
+      "RelativePath": "cart.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cart.png"
+    },
+    {
       "Identity": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\css\\site.css",
       "SourceId": "PalermosPizza",
       "SourceType": "Discovered",
@@ -74,12 +93,12 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\favicon.png",
       "SourceId": "PalermosPizza",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\",
       "BasePath": "_content/PalermosPizza",
-      "RelativePath": "favicon.ico",
+      "RelativePath": "favicon.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -90,7 +109,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
+      "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
       "Identity": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\js\\site.js",
@@ -1212,6 +1231,44 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\signInDoor.png",
+      "SourceId": "PalermosPizza",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\",
+      "BasePath": "_content/PalermosPizza",
+      "RelativePath": "signInDoor.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\signInDoor.png"
+    },
+    {
+      "Identity": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\signUpUser.png",
+      "SourceId": "PalermosPizza",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\",
+      "BasePath": "_content/PalermosPizza",
+      "RelativePath": "signUpUser.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\signUpUser.png"
     },
     {
       "Identity": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\wp.jpeg",
