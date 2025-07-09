@@ -87,3 +87,49 @@ a:active, a:hover {
     width: 15pt;
     margin-right: 3pt;
 }
+
+hr
+{
+    border: black solid 2pt;
+    max-width: 400pt;
+    margin: auto;
+    margin-top: 20pt;
+    margin-bottom: 30pt;
+}
+
+.innerBackground {
+    padding: 20pt;
+    background-color: white;
+    color: black;
+    max-height: stretch;
+    text-align: center;
+}
+
+#registerTable, #signInTable {
+    margin: auto;
+    max-width: 1000pt;
+    border: 1pt solid grey;
+    background-color: lightgray;
+}
+
+.registerTableTd {
+    max-width: 500pt;
+    padding: 15pt;
+    text-align: left;
+}
+
+.signInTableTd {
+    max-width: 500pt;
+    padding: 20pt;
+    text-align: center;
+}
+
+input[type="submit"]
+{
+    margin-top: 20pt;
+    margin-bottom: 10pt;
+    background-color: green;
+    color: white;
+    border: red solid 1pt;
+    border-radius: 2pt;
+}

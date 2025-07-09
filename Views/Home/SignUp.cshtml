@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Regisztráció";
+}
+<div class="innerBackground">
+    <h2>Regisztráció</h2>
+    <hr>
+    <table id="registerTable">
+        <tr>
+            <td class="registerTableTd">Vezetéknév  <input type="text"></td>
+            <td class="registerTableTd">Keresztnév  <input type="text"></td>
+        </tr>
+        <tr>
+            <td class="registerTableTd">Telefonszám <input type="number" /></td>
+        </tr>
+        <tr>
+            <td class="registerTableTd">Email cím <input type="email" /></td>
+        </tr>
+        <tr>
+            <td class="registerTableTd">Irányítószám <input type="text" maxlength="4" size="3" /></td>
+            <td class="registerTableTd">Város <input type="text" /></td>
+        </tr>
+        <tr>
+            <td class="registerTableTd">Cím <input type="text" /></td>
+            <td class="registerTableTd">Közterület neve <input type="text" /></td>
+        </tr>
+    </table>
+    <a href="/Home/SignIn">Már van fiókod?</a><br />
+    <input type="submit" value="Regisztráció!"/>
+</div>
