@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Pw505tzqKk5HvWijwaJnJbf1ZVtpz+Tc1mn3LEdqtYM=",
+  "Hash": "3mOUBObfiReCXyolxbB59eWpMEtjPxT88sFufezKhRo=",
   "Source": "PalermosPizza",
   "BasePath": "_content/PalermosPizza",
   "Mode": "Default",
@@ -74,12 +74,12 @@
       "OriginalItemSpec": "wwwroot\\cart.png"
     },
     {
-      "Identity": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\changing introducers\\lasagne.png",
+      "Identity": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\changing_introducers\\lasagne.png",
       "SourceId": "PalermosPizza",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\",
       "BasePath": "_content/PalermosPizza",
-      "RelativePath": "changing introducers/lasagne.png",
+      "RelativePath": "changing_introducers/lasagne.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -90,15 +90,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\changing introducers\\lasagne.png"
+      "OriginalItemSpec": "wwwroot\\changing_introducers\\lasagne.png"
     },
     {
-      "Identity": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\changing introducers\\pizza.jpg",
+      "Identity": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\changing_introducers\\pizza.jpg",
       "SourceId": "PalermosPizza",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\",
       "BasePath": "_content/PalermosPizza",
-      "RelativePath": "changing introducers/pizza.jpg",
+      "RelativePath": "changing_introducers/pizza.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -109,15 +109,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\changing introducers\\pizza.jpg"
+      "OriginalItemSpec": "wwwroot\\changing_introducers\\pizza.jpg"
     },
     {
-      "Identity": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\changing introducers\\spaghetti.jpg",
+      "Identity": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\changing_introducers\\spaghetti.jpg",
       "SourceId": "PalermosPizza",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\",
       "BasePath": "_content/PalermosPizza",
-      "RelativePath": "changing introducers/spaghetti.jpg",
+      "RelativePath": "changing_introducers/spaghetti.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -128,15 +128,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\changing introducers\\spaghetti.jpg"
+      "OriginalItemSpec": "wwwroot\\changing_introducers\\spaghetti.jpg"
     },
     {
-      "Identity": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\changing introducers\\tiramisu.jpg",
+      "Identity": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\changing_introducers\\tiramisu.jpg",
       "SourceId": "PalermosPizza",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\",
       "BasePath": "_content/PalermosPizza",
-      "RelativePath": "changing introducers/tiramisu.jpg",
+      "RelativePath": "changing_introducers/tiramisu.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,7 +147,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\changing introducers\\tiramisu.jpg"
+      "OriginalItemSpec": "wwwroot\\changing_introducers\\tiramisu.jpg"
     },
     {
       "Identity": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\css\\site.css",
