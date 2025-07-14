@@ -148,8 +148,42 @@ h2
 }
 
 #introducers {
-    max-width: 650pt;
-    left: 0;
+    width: 800pt;
+}
+
+header
+{
+    max-height: stretch;
+}
+
+#categoriesTable {
+    color: white;
+    width: 1090pt;
+    text-align: center;
+    font-family: 'Lucida Sans Unicode';
+    margin: auto;
+    margin-bottom: 10pt;
+    border-left: 1pt solid white;
+    font-size: 14pt;
+}
+
+#categoriesTableColumn {
+    max-width: 10pt;
+    border-right: 1pt solid white;
+    height: 20pt;
+}
+
+.categoryIcon
+{
+    width: 25pt;
+    margin-right: 4pt;
+    margin-bottom: 4pt;
+}
+
+#underTable {
+    border-top: 1pt solid white;
+    max-width: 1100pt;
+    margin: 0pt;
+    margin-bottom: 20pt;
     opacity: 1;
-    -webkit-transition: opacity 4s ease;
 }

@@ -9,12 +9,72 @@
       "PackagePath": "staticwebassets\\cart.png"
     },
     {
+      "Id": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\category_icons\\dessert.png",
+      "PackagePath": "staticwebassets\\category_icons\\dessert.png"
+    },
+    {
+      "Id": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\category_icons\\drink.png",
+      "PackagePath": "staticwebassets\\category_icons\\drink.png"
+    },
+    {
+      "Id": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\category_icons\\pasta.png",
+      "PackagePath": "staticwebassets\\category_icons\\pasta.png"
+    },
+    {
+      "Id": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\category_icons\\pizza.png",
+      "PackagePath": "staticwebassets\\category_icons\\pizza.png"
+    },
+    {
+      "Id": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\category_icons\\salad.png",
+      "PackagePath": "staticwebassets\\category_icons\\salad.png"
+    },
+    {
+      "Id": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\category_icons\\sauce.png",
+      "PackagePath": "staticwebassets\\category_icons\\sauce.png"
+    },
+    {
+      "Id": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\category_icons\\side.png",
+      "PackagePath": "staticwebassets\\category_icons\\side.png"
+    },
+    {
+      "Id": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\category_icons\\soup.png",
+      "PackagePath": "staticwebassets\\category_icons\\soup.png"
+    },
+    {
+      "Id": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\changing_introducers\\cake.png",
+      "PackagePath": "staticwebassets\\changing_introducers\\cake.png"
+    },
+    {
+      "Id": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\changing_introducers\\cocktail_blue.jpg",
+      "PackagePath": "staticwebassets\\changing_introducers\\cocktail_blue.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\changing_introducers\\cocktail_red.png",
+      "PackagePath": "staticwebassets\\changing_introducers\\cocktail_red.png"
+    },
+    {
+      "Id": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\changing_introducers\\dessert.jpg",
+      "PackagePath": "staticwebassets\\changing_introducers\\dessert.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\changing_introducers\\ice_cream.jpg",
+      "PackagePath": "staticwebassets\\changing_introducers\\ice_cream.jpg"
+    },
+    {
       "Id": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\changing_introducers\\lasagne.png",
       "PackagePath": "staticwebassets\\changing_introducers\\lasagne.png"
     },
     {
       "Id": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\changing_introducers\\pizza.jpg",
       "PackagePath": "staticwebassets\\changing_introducers\\pizza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\changing_introducers\\salad.jpg",
+      "PackagePath": "staticwebassets\\changing_introducers\\salad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\changing_introducers\\soup.jpg",
+      "PackagePath": "staticwebassets\\changing_introducers\\soup.jpg"
     },
     {
       "Id": "C:\\Users\\nagyl\\Desktop\\Projects\\PalermosPizza\\PalermosPizza\\wwwroot\\changing_introducers\\spaghetti.jpg",
